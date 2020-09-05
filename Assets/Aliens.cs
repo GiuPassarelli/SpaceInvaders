@@ -42,10 +42,10 @@ public class Aliens : MonoBehaviour
             }
         }
         if(gameObject.transform.childCount <= 6){
-            speed *= 1.2f;
+            speed *= 1.05f;
         }
         if(gameObject.transform.childCount <= 3){
-            speed *= 1.05f;
+            speed *= 1.005f;
         }
     }
 
