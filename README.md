@@ -1,6 +1,8 @@
 # SpaceInvaders
 By Giulia Passarelli
 
+Primeiro jogo em unity
+
 Implementações extra:
 1. Quando todos os aliens morrerem, inicie uma nova fase com todos eles de volta;
 2. Deixe o jogador com 3 vidas, sempre mostrando a quantidade de vidas restante;
